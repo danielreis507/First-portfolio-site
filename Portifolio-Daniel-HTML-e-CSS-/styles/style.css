@@ -90,6 +90,10 @@ body{
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
 }
+.iconeYoutube{
+    width: 48px;
+    height: 48px;
+}
 
 .apresentacao__imagem{
     width: 500;
